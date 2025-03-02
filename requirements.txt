@@ -1,0 +1,7 @@
+webdriver-manager
+bs4 
+dotenv 
+openai 
+selenium 
+bs4 
+nicegui
